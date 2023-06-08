@@ -25,7 +25,7 @@ element in a certain location that will stay the same no matter where other
 elements are placed. We can use absolute positioning to specify _exactly_ where
 in the document layout we want an element to be placed:
 
-![absolute positioning diagram](https://curriculum-content.s3.amazonaws.com/phase-0/phase-0-css-kitten-lab/absolute-position.png)
+![absolute positioning diagram](https://curriculum-content.s3.amazonaws.com/phase-0/phase-0-css-kitphase-0-css-kitten-labten-lab/absolute-position.png)
 
 Here's an example of what absolute positioning looks like in CSS:
 
